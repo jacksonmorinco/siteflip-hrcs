@@ -80,7 +80,7 @@ export default function SalesPage() {
             </div>
           </div>
 
-          {/* Inventory CTA — prominent */}
+          {/* Inventory CTA - prominent */}
           <div className="bg-navy-dark p-10 lg:p-14 mb-20">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
               <div>
